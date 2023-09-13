@@ -1,4 +1,4 @@
 “# Github and git conflict”
-# CSC4110-assignment1
+"#Github and git"
 Mohan Sreeramulu
 hi1396
